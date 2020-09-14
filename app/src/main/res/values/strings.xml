@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tute6Firebase</string>
+    <string name="id">Enter user id</string>
+    <string name="name">Enter your name</string>
+    <string name="address">enter your address</string>
+    <string name="contact">Enter your contact number</string>
+    <string name="save">save</string>
+    <string name="show">show</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+</resources>

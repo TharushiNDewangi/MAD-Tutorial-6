@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727678864535",
+    "firebase_url": "https://tute6firebase-18d6b.firebaseio.com",
+    "project_id": "tute6firebase-18d6b",
+    "storage_bucket": "tute6firebase-18d6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727678864535:android:c99f2b00a18af10bf3edd2",
+        "android_client_info": {
+          "package_name": "com.example.tute6firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727678864535-kavv0e6ojuov7ssjh5bs0imdbbuq0hb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Wmw4-xal0DPMucLdhzipnFo07TJFTaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727678864535-kavv0e6ojuov7ssjh5bs0imdbbuq0hb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
